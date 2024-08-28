@@ -1,0 +1,8 @@
+pandas
+numpy
+rarfile
+opencv-python
+torch
+tensorflow
+pillow
+tqdm
